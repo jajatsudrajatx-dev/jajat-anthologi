@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jajat Sudrajat – ACL Anthology Style</title>
+<style>
+    body { font-family: "Times New Roman", serif; background: #f9f9f9; color: #000; margin: 40px; }
+    h1 { font-size: 28px; margin-bottom: 5px; }
+    h2 { font-size: 22px; margin-top: 30px; margin-bottom: 10px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+    th { background-color: #f2f2f2; }
+    a { color: #1a0dab; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<h1>Jajat Sudrajat, SE, MM</h1>
+<p><strong>Affiliation:</strong> Binus University, Indonesia</p>
+<p><strong>Email:</strong> <a href="mailto:jajat.sudrajat@binus.ac.id">jajat.sudrajat@binus.ac.id</a></p>
+
+<h2>Publications</h2>
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Authors</th>
+            <th>Published In</th>
+            <th>DOI / URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>The Cimahi App Emerges as an Economic Solution</td>
+            <td>Jajat Sudrajat, dkk.</td>
+            <td>Zenodo, 2023</td>
+            <td>
+                <a href="https://doi.org/10.1051/e3sconf/202459405002" target="_blank">DOI</a><br>
+                <a href="https://zenodo.org/records/16323513" target="_blank">URL</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Smart Learning Development Model of Indonesian Higher Education</td>
+            <td>Jajat Sudrajat, Widodo Samyono</td>
+            <td>E3S Web of Conferences, ICEnSO 2024</td>
+            <td><a href="https://doi.org/10.1051/e3sconf/202459405002" target="_blank">DOI</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Intervention of Cimahi City MSME Community</td>
+            <td>Sodikin, Jajat Sudrajat, dkk.</td>
+            <td>IJACE, 2025</td>
+            <td><a href="https://doi.org/10.17509/ijace.v7i1.85256" target="_blank">DOI</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Farming Sustainability in Peatlands, West Kalimantan</td>
+            <td>Jajat Sudrajat, dkk.</td>
+            <td>JIPI, 2025</td>
+            <td><a href="https://doi.org/10.18343/jipi.31.1.83" target="_blank">DOI</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Effect of User Participation on Accounting IS Performance</td>
+            <td>Meiryani, Jajat Sudrajat, Olga V. Demkina</td>
+            <td>IJRTE, 2020</td>
+            <td><a href="https://doi.org/10.35940/ijrte.F7385.038620" target="_blank">DOI</a></td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
